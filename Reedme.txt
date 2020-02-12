@@ -1,2 +1,1 @@
-Esta es la rama master en la que vamos a trabajar manu y Aitor.
-Subiremos los cambios cuando validemos en dev.
+Aquí realizamos el desarrollo, lo validamos y posteriormente lo subimos a master
