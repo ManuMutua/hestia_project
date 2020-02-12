@@ -1,1 +1,1 @@
-Aquí realizamos el desarrollo, lo validamos y posteriormente lo subimos a master.
+Rama master desarrollo validado
