@@ -1,1 +1,1 @@
-Aquí realizamos el desarrollo, lo validamos y posteriormente lo subimos a master
+Aquí realizamos el desarrollo, lo validamos y posteriormente lo subimos a master.
